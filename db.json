@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": "fdc8",
+      "name": "James Miller",
+      "email": "mabica5900@adrais.com",
+      "password": "$2a$10$uoR5ZqhLJS3KkOkPWYnl/ObSWaFerWzCf1ao0iA7kkz1fTcKTGH8u",
+      "role": "patient"
+    },
+    {
+      "id": "7100",
+      "name": "Matthew Lopez",
+      "email": "danyjorf@gmail.com",
+      "password": "$2a$10$fNfAWHee1oCcolOguA4G9uQwaq.Psemhwu3tTEnK98FHz6R4Hjj7.",
+      "role": "patient"
+    },
+    {
+      "id": "g4lwAHO",
+      "name": "Christopher Lee",
+      "email": "danyjorf@gmail.com",
+      "password": "$2a$10$fUU09o0lLUOSUkpFMSLFC.TcjfPiAHal/OfQXaMzSGH5o8T65ab1G",
+      "role": "patient"
+    },
+    {
+      "id": "7fxSbKa",
+      "name": "DanaFlores",
+      "email": "kejom77066@godsigma.com",
+      "password": "$2a$10$LqiyE9cJqTJ42RyEvgj9AufH06QTxtuiNXXle8TsuzukvjdA4Rd7u",
+      "role": "patient"
+    },
+    {
+      "id": "VxqLVRz",
+      "name": "Louis",
+      "email": "yafev45300@godsigma.com",
+      "password": "$2a$10$FF9KXL59R8Bo71TO7CW7cuQQt0iVOD4BMbU05jr6GMbPLqx.4wSY2",
+      "role": "patient"
+    },
+    {
+      "id": "yVHAPLe",
+      "name": "Mudassir",
+      "email": "muddassir@gmail.com",
+      "password": "$2a$10$NAF20GFquVODmXNQhAlwPuTmSEC1PrUk1fN3JcmUyp65Sjj4MwGRa",
+      "role": "patient"
+    },
+    {
+      "id": "VDKfuRS",
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "password": "$2a$10$rg/ltux0354cc/M2kAr5RelmNuC748a.hWgtpECl5Awm7cI5DtB8C",
+      "role": "patient"
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "$2a$10$8RTyMJc9WpGkawTsm6e0VOMYpRiAW94JkEyXrYC9lrK04zNlCxOtS",
+      "id": "uq-My-H",
+      "role": "patient"
+    },
+    {
+      "name": "Abc",
+      "email": "abc@gmail.com",
+      "password": "$2a$10$94ntkJ1k4TYVzmXKxbJ9GeHCdRi5/5iJoZ3T9bxUQ.GTdnu7Bl/Ma",
+      "id": "S9psVN6",
+      "role": "patient"
+    },
+    {
+      "name": "wazir",
+      "email": "wazir1@gmail.com",
+      "password": "$2a$10$/DWvxcmsZxLIo7xmpf0IWuOIpCDM/smc15G7UGhtOM0iImCBsVPkK",
+      "id": "6PgPreJ"
+    },
+    {
+      "name": "Register",
+      "email": "register@gamil.com",
+      "password": "$2a$10$PGwayiIAnExntol.DVHP8eNGhceerp40mS8I9V3qbi4neps54cuOq",
+      "id": "hXvePbN"
+    },
+    {
+      "name": "Register",
+      "email": "register@gmail.com",
+      "password": "$2a$10$HyPF1uB73YesO.gF.vgcXuBi7nGsdfPxz6Sy.wfJbdbw8Cqt9OG2i",
+      "id": "lDrswd6"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "doc1",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Cardiology",
+      "diseases": [
+        "heart disease",
+        "high blood pressure"
+      ],
+      "role": "doctor"
+    },
+    {
+      "id": "doc2",
+      "name": "Dr. Robert Smith",
+      "specialty": "Neurology",
+      "diseases": [
+        "migraine",
+        "Alzheimer's disease",
+        "Parkinson's disease"
+      ],
+      "role": "doctor"
+    },
+    {
+      "id": "doc3",
+      "name": "Dr. Emily Brown",
+      "specialty": "Dermatology",
+      "diseases": [
+        "eczema",
+        "psoriasis",
+        "skin cancer"
+      ],
+      "role": "doctor"
+    }
+  ],
+  "appointments": [
+    {
+      "doctorId": "doc1",
+      "doctorName": "Dr. Sarah Johnson",
+      "specialization": "Cardiology",
+      "date": "2024-10-08",
+      "time": "13:00",
+      "userEmail": "abc@gmail.com",
+      "id": 1
+    },
+    {
+      "doctorId": "doc3",
+      "doctorName": "Dr. Emily Brown",
+      "specialization": "Dermatology",
+      "date": "2024-10-11",
+      "time": "23:00",
+      "userEmail": "register@gmail.com",
+      "id": 2
+    }
+  ]
+}
